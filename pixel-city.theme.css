@@ -1,0 +1,23 @@
+/**
+        * @name Pixel City
+        * @version 1
+        * @description Pixel City.
+        * @author discordthemes
+        * @website discordthemes.io
+        */
+        @import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+        :root {
+          --themeColor1: #ff6251;
+          --themeColor2: #ff6251;
+          --customFont: 'Open Sans', sans-serif;
+          --homeImage: url('https://i.imgur.com/q9oLVAz.png');
+          --homeImageSize: cover;
+          --backgroundColor: #0d0d0d;
+          --backgroundImage: url('https://i.imgur.com/ETjqRHe.png');
+          --backgroundPosition: center;
+          --backgroundSize: cover;
+          --backgroundRepeat: no-repeat;
+          --backgroundBlur: 0px;
+          --backgroundOpacity: 0.35;
+        }

@@ -1,0 +1,23 @@
+/**
+        * @name Black Panther
+        * @version 1
+        * @description Black Panther.
+        * @author discordthemes
+        * @website discordthemes.io
+        */
+        @import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+        :root {
+          --themeColor1: #0042aa;
+          --themeColor2: #0042aa;
+          --customFont: 'Open Sans', sans-serif;
+          --homeImage: url('https://i.imgur.com/q9oLVAz.png');
+          --homeImageSize: cover;
+          --backgroundColor: #0d0d0d;
+          --backgroundImage: url('https://i.imgur.com/YVtTEFu.png');
+          --backgroundPosition: center;
+          --backgroundSize: cover;
+          --backgroundRepeat: no-repeat;
+          --backgroundBlur: 0px;
+          --backgroundOpacity: 0.35;
+        }
